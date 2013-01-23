@@ -53,7 +53,8 @@ PRODUCT_PACKAGES += \
     librs_jni \
     Torch \
     macloader \
-    Smdk4210TabSettings
+    Smdk4210TabSettings \
+    libsecril-client
 
 # HAL
 PRODUCT_PACKAGES += \
