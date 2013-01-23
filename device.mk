@@ -53,7 +53,6 @@ PRODUCT_PACKAGES += \
     librs_jni \
     Torch \
     macloader \
-    bccmd \
     Smdk4210TabSettings
 
 # HAL
