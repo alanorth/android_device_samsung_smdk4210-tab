@@ -69,7 +69,8 @@ PRODUCT_PACKAGES += \
 	libhwconverter \
 	libnetcmdiface \
 	libs5pjpeg \
-	libfimg
+	libfimg \
+	libsecion
 
 # Charger
 PRODUCT_PACKAGES += \
